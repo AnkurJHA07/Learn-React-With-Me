@@ -1,5 +1,6 @@
 import React from "react";
+import React from "./components/navbar";
 function App(){
-    return <h1><Hey></h1>
+    return <nabar></nabar>
 }
 export default App;
